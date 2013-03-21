@@ -1,8 +1,8 @@
-# Public: Install and configure dnsmasq from homebrew.
+# Public: Install golang from homebrew.
 #
 # Examples
 #
-#   include dnsmasq
+#   include go
 class go{
   require homebrew
 
