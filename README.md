@@ -17,4 +17,3 @@ Golang SDK allows you to import a package using [remote path syntax](http://gola
 * `bazaar`
 * `git`
 * `mercurial`
-* `subversion`
